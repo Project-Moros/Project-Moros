@@ -1,10 +1,12 @@
 # Project Moros
 
+UPDATE: Demo site can now be found here: https://sites.google.com/view/projectmoros
+
 Project Moros is a game collective that is going to be releasing sometime!
 
 ## When will it be released?
 
-The details have yet to be worked out but, it's planned to release later this year (2022).
+The planned release date is `September 1st 2022`
 
 ## Where will I be able to find it?
 
