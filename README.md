@@ -8,7 +8,7 @@ Project Moros is a game collective that is going to be releasing sometime!
 
 ## When will it be released?
 
-The planned release date is `September 1st 2022`
+The planned release date is `September 1st, 2022`
 
 ## Where will I be able to find it?
 
