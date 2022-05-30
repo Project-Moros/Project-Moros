@@ -2,6 +2,8 @@
 
 UPDATE: Demo site can now be found here: https://sites.google.com/view/projectmoros
 
+---
+
 Project Moros is a game collective that is going to be releasing sometime!
 
 ## When will it be released?
