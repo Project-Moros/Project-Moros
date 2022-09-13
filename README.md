@@ -8,6 +8,7 @@ Project Moros is an **unblockable** game website that released on September 1st!
 ## Where can I find it?
 
 Blog: https://project-moros.github.io/
+
 Google Site: https://sites.google.com/view/projectmoros
 
 ## What is Moros?
